@@ -1,19 +1,19 @@
 # driver_assistance
 
-drowsiness
+-drowsiness
 -- detects the state of eyes and evaluates the state of the user
 
-IRDetector
+-IRDetector
 -- Collision detection using IR module
 
-ManageUsers
+-ManageUsers
 -- Add, Remove the users 
 
-SmartCam
+-SmartCam
 -- Verifies the input with the Authorized Users Data Set
     and judges the permission
 
-SpeedUploader
+-SpeedUploader
 -- Uploads the speed of the vehicle, to user accesible server
 
 
